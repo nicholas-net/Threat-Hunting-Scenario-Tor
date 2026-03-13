@@ -1,0 +1,10 @@
+﻿Timestamp,DeviceName,ActionType,FileName,FolderPath,SHA256,Account
+"Mar 11, 2026 4:43:18 PM",nc-windows-vm,FileCreated,tor_shopping_list.lnk,C:\Users\nc-windows-vm\AppData\Roaming\Microsoft\Windows\Recent\tor_shopping_list.lnk,9ed5c90ceea275c0bb65d36abf25925cbcb4f983d3c6dcab84c89336466f8010,nc-windows-vm
+"Mar 11, 2026 4:43:18 PM",nc-windows-vm,FileCreated,tor_shopping_list.txt,C:\Users\nc-windows-vm\Documents\tor_shopping_list.txt,8c0df12e7676ead591792c325d84562668a3362c7ff87128d967b52cf8dd0d8b,nc-windows-vm
+"Mar 11, 2026 4:01:18 PM",nc-windows-vm,FileCreated,Tor Browser.lnk,C:\Users\nc-windows-vm\Desktop\Tor Browser\Tor Browser.lnk,25f5b0468629ad0ea559f98745d58411f9eeae2b651bdf778ce060662f048cf4,nc-windows-vm
+"Mar 11, 2026 4:01:01 PM",nc-windows-vm,FileCreated,tor.exe,C:\Users\nc-windows-vm\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe,5d7797c72d7eae405d6b2054d94c53494861eb1169d8a1b276775aa48dc94fd7,nc-windows-vm
+"Mar 11, 2026 4:01:00 PM",nc-windows-vm,FileCreated,tor.txt,C:\Users\nc-windows-vm\Desktop\Tor Browser\Browser\TorBrowser\Docs\Licenses\tor.txt,5dc29ea302cc75db6db4a7c88d7b5d4638b4e0f5f1d2e6d21ce71f707470b766,nc-windows-vm
+"Mar 11, 2026 4:01:00 PM",nc-windows-vm,FileCreated,Tor-Launcher.txt,C:\Users\nc-windows-vm\Desktop\Tor Browser\Browser\TorBrowser\Docs\Licenses\Tor-Launcher.txt,d4fd98d01e1714e6b86f3b2c721e80f593387de8b10da690625039155fa2104c,nc-windows-vm
+"Mar 11, 2026 4:01:00 PM",nc-windows-vm,FileCreated,Firefox.txt,C:\Users\nc-windows-vm\Desktop\Tor Browser\Browser\TorBrowser\Docs\Licenses\Firefox.txt,fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85,nc-windows-vm
+"Mar 11, 2026 4:00:42 PM",nc-windows-vm,FileCreated,firefox.exe,C:\Users\nc-windows-vm\Desktop\Tor Browser\Browser\firefox.exe,a476268f30d839fd95bb4d497c3b1ffb277aa6a3ac78d4cbf2b60c4b2b8178fb,nc-windows-vm
+"Mar 11, 2026 3:56:48 PM",nc-windows-vm,FileRenamed,tor-browser-windows-x86_64-portable-15.0.7.exe,C:\Users\nc-windows-vm\Downloads\tor-browser-windows-x86_64-portable-15.0.7.exe,958626901dbe17fc003ed671b61b3656375e6f0bc06c9dff60bd2f80d4ace21b,nc-windows-vm

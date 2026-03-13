@@ -1,0 +1,2 @@
+﻿Timestamp,DeviceName,ActionType,FileName,FolderPath,SHA256,ProcessCommandLine,InitiatingProcessAccountName
+"Mar 11, 2026 4:00:30 PM",nc-windows-vm,ProcessCreated,tor-browser-windows-x86_64-portable-15.0.7.exe,C:\Users\nc-windows-vm\Downloads\tor-browser-windows-x86_64-portable-15.0.7.exe,958626901dbe17fc003ed671b61b3656375e6f0bc06c9dff60bd2f80d4ace21b,tor-browser-windows-x86_64-portable-15.0.7.exe  \S,nc-windows-vm
